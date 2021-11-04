@@ -3,3 +3,4 @@ env/
 Paint/
 Practice
 *.html
+.gitignore/
